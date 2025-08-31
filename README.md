@@ -6,7 +6,7 @@ ___
 
 <h2>🎮 ¿Cómo jugar?</h2>
 
-* En primera instancia debes anotar nombres de amigos que quieran acompañartea dar un paseo a un parque.
+* En primera instancia debes anotar nombres de amigos que quieran acompañarte a dar un paseo a un parque.
 
 ![Ejemplo de amigos/as a sortear](./assets/img/ejemplo_amigos.png)
 

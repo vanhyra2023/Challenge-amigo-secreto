@@ -1,6 +1,6 @@
 <h1>Challenge Amigo Secreto</h1>
 
-Este proyecto es una pequeña aplicación web. Es interactiva y permite agregar nombres de amigos para descubrir mediante un sorteo quién es el "amigo secreto" que irá con el jugador de paseo a un parque. Esta aplicación se relizó como parte de un challenge de una formación de Alura Latam.
+Este proyecto es una pequeña aplicación web. Es interactiva y permite agregar nombres de amigos para descubrir mediante un sorteo quién es el "amigo secreto" que irá con el jugador de paseo a un parque. Esta aplicación se realizó como parte de un challenge de una formación de Alura Latam.
 
 ___
 
